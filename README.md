@@ -1,16 +1,95 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Mahamad Gouse N 👋</h1>
 
-<!--
-**Mdgouse123/Mdgouse123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Computer Science Engineering Student</b> · IoT · Cybersecurity · Blockchain<br/>
+  Python Developer &nbsp;|&nbsp; Aspiring SOC Analyst<br/>
+  📍 Mangalore, India
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahamad-gouse-n">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mohamedgouse313@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mdgouse123">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+Computer Science Engineering student specializing in **Cybersecurity**.
+Passionate about **Python development**, **threat detection**, and building **secure applications**.
+
+- 🔐 Interested in Cybersecurity, SOC operations & ethical hacking
+- 🐍 Building security tools with Python
+- 🌱 Exploring IoT security and Blockchain
+- 🎯 Goal: Become a skilled SOC Analyst
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**Cybersecurity & Tools**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+**Other Interests**
+
+![IoT](https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=bitcoin&logoColor=white)
+
+---
+
+## 🌐 Languages I Speak
+
+🇬🇧 English &nbsp;·&nbsp; 🇮🇳 Hindi &nbsp;·&nbsp; 🇮🇳 Kannada
+
+---
+
+## 📌 Featured Project
+
+### 🔍 Web Vulnerability Scanner
+A Python-based tool that scans web applications for common vulnerabilities.
+
+- Detects **XSS**, **SQL Injection**, **Open Redirects**
+- Checks **HTTP security headers**
+- Scans for **sensitive exposed files**
+- Generates reports in **HTML, JSON, PDF & DOCX**
+
+> 🔗 [View Repository](https://github.com/Mdgouse123/web-vuln-scanner)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mdgouse123&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mdgouse123&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Mdgouse123&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Security is not a product, but a process."</i> — Bruce Schneier
+</p>
+
+<p align="center">
+  Thanks for visiting! Feel free to connect 🤝
+</p>
