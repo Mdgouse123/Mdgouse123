@@ -73,7 +73,6 @@ A Python-based tool that scans web applications for common vulnerabilities.
 
 ---
 
----
 
 <p align="center">
   <i>"Security is not a product, but a process."</i> — Bruce Schneier
